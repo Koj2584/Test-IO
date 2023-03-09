@@ -1,0 +1,10 @@
+G:\Dokumenty\Csharp\IOTest\IOTest\bin\Debug\IOTest.exe.config
+G:\Dokumenty\Csharp\IOTest\IOTest\bin\Debug\IOTest.exe
+G:\Dokumenty\Csharp\IOTest\IOTest\bin\Debug\IOTest.pdb
+G:\Dokumenty\Csharp\IOTest\IOTest\obj\Debug\IOTest.csprojAssemblyReference.cache
+G:\Dokumenty\Csharp\IOTest\IOTest\obj\Debug\IOTest.Form1.resources
+G:\Dokumenty\Csharp\IOTest\IOTest\obj\Debug\IOTest.Properties.Resources.resources
+G:\Dokumenty\Csharp\IOTest\IOTest\obj\Debug\IOTest.csproj.GenerateResource.cache
+G:\Dokumenty\Csharp\IOTest\IOTest\obj\Debug\IOTest.csproj.CoreCompileInputs.cache
+G:\Dokumenty\Csharp\IOTest\IOTest\obj\Debug\IOTest.exe
+G:\Dokumenty\Csharp\IOTest\IOTest\obj\Debug\IOTest.pdb
